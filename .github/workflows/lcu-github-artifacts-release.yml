@@ -10,7 +10,7 @@ env:
   Branches: main
   MainBranch: main
   NPMRegistry: https://registry.npmjs.org/
-  InstallCommand: Ide.
+  InstallCommand: &#9671;install
   BuildCommand: Run
   Output: ./
 
